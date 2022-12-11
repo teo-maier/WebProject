@@ -1,0 +1,18 @@
+.main-container {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+label {
+    color: darkgrey;
+    margin: 0;
+}
+
+.details-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+}

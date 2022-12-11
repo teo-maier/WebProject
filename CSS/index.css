@@ -1,0 +1,20 @@
+.index-main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.actions {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.logout-button:hover {
+    opacity: 0.7;
+}
